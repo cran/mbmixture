@@ -1,0 +1,31 @@
+
+R version 3.5.1 (2018-07-02) -- "Feather Spray"
+Copyright (C) 2018 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> # create mbmixdata object and save as .RData file
+> 
+> mbmixdata <- structure(c(3684249, 1293728, 219492, 977787, 545460, 146964,
++ 49243, 36227, 1058, 10159, 185128, 72721, 554641, 519155, 231074,
++ 134408, 232498, 202412), .Dim = c(3L, 3L, 2L), .Dimnames = list(
++     c("AA", "AB", "BB"), c("AA", "AB", "BB"), c("A", "B")))
+> 
+> save(mbmixdata, file="../../data/mbmixdata.RData")
+> 
+> proc.time()
+   user  system elapsed 
+  0.123   0.013   0.110 
