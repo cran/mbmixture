@@ -1,7 +1,7 @@
-4ce1034816bbcf290ac5cfa3505db6a7 *DESCRIPTION
+207994013d29c10da86d8f99570e5ea7 *DESCRIPTION
 fc10e53c12c1e0a34e288e9dfae33d38 *LICENSE
 97c996570ba53440da9f1cdec7377bfd *NAMESPACE
-de61c1429208a3b91c64ff5acdab238e *NEWS.md
+6dcf5e999cc03294fee32389f19d574d *NEWS.md
 397d0217bbaebedb1c6d13ed34942465 *R/bootstrapNull.R
 c3b6ec2ceaf1ab9c168293605588af55 *R/bootstrapSE.R
 c1615a0b2f0fc28e653cae7bb8c9ae81 *R/cluster_util.R
@@ -10,13 +10,13 @@ a88e3c49ddb28ad7857c793ffee14b61 *R/mbmixdata.R
 8f3b0335b179b3faacebf3886b17f37a *R/mle_e.R
 8cd52237722f9bd9523ad1a9bfeb971d *R/mle_p.R
 7da4118100b47e58411ae5039269c753 *R/mle_pe.R
-ebaac76aa3b1371455a0f706e1f7b941 *README.md
-9b208ada1bbb8d8a452090fabaa2815a *build/vignette.rds
-64cf6151081eebf4ddf03f349b65d159 *data/mbmixdata.RData
+ffd2f868e9acc3c3bbe33f0babb7d9b3 *README.md
+3bb53e8b800945b624de94c8e46de293 *build/vignette.rds
+0e7d56e231915d2f47a9419db4a2176d *data/mbmixdata.RData
 d52360953f6ff07e04435730070f7da9 *inst/CITATION
-a31f0db77af58efb6d8dc4e0749cff07 *inst/doc/mbmixture.R
-1737ccddf7df7c9d70225a378af5ab27 *inst/doc/mbmixture.Rmd
-ebc41f1c62872b9f244ffff3ae1e5e9e *inst/doc/mbmixture.html
+e61f22d35fd2d8dd4a93d4ea5ce88f02 *inst/doc/mbmixture.R
+5572a5d9b3e995ac75900f6440df73f0 *inst/doc/mbmixture.Rmd
+b7ed2b8e9a19392cb06c33ced7820610 *inst/doc/mbmixture.html
 406543cc6c14e32b1c2d50da3c84b1fb *inst/scripts/create_mbmixdata.R
 dcbde8d4d68494a46cf5d08734dcb62f *inst/scripts/create_mbmixdata.Rout
 fbca3433c25fc780fbaddcc536d0927f *man/bootstrapNull.Rd
@@ -32,4 +32,4 @@ a0c79d25ebe9ffc58d5a56e2f10d971b *man/mle_pe.Rd
 f355352c784817efe16378e31a21aa97 *tests/testthat/test-mbmix_loglik.R
 ef613911b4e8db965757d85c68e6aa74 *tests/testthat/test-mle.R
 cf87e7668518c591b6602e1b0dde501e *tests/testthat/test-mle_pe.R
-1737ccddf7df7c9d70225a378af5ab27 *vignettes/mbmixture.Rmd
+5572a5d9b3e995ac75900f6440df73f0 *vignettes/mbmixture.Rmd

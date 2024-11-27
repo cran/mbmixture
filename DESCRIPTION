@@ -1,6 +1,6 @@
 Package: mbmixture
-Version: 0.4
-Date: 2023-04-27
+Version: 0.6
+Date: 2024-11-27
 Title: Microbiome Mixture Analysis
 Description: Evaluate whether a microbiome sample is a mixture of two
     samples, by fitting a model for the number of read counts as a
@@ -23,6 +23,6 @@ Encoding: UTF-8
 ByteCompile: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-04-27 12:49:51 UTC; kbroman
+Packaged: 2024-11-27 22:51:22 UTC; kbroman
 Repository: CRAN
-Date/Publication: 2023-04-27 13:00:09 UTC
+Date/Publication: 2024-11-27 23:20:02 UTC
