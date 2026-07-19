@@ -2,11 +2,8 @@
 
 [![R build status](https://github.com/kbroman/mbmixture/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kbroman/mbmixture/actions/workflows/R-CMD-check.yaml)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/mbmixture)](https://cran.r-project.org/package=mbmixture)
+[![r-universe badge](https://kbroman.r-universe.dev/mbmixture/badges/version)](https://kbroman.r-universe.dev/mbmixture)
 [![zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4067048.svg)](https://doi.org/10.5281/zenodo.4067048)
-
-[Karl W Broman](https://kbroman.org)
-
----
 
 R/mbmixture is an [R](https://www.r-project.org) package for
 evaluating whether a microbiome sample is the mixture of two source
@@ -30,6 +27,20 @@ You can install R/mbmixture from [CRAN](https://cran.r-project.org):
 ```r
 install.packages("mbmixture")
 ```
+Alternatively, install it from [R
+universe](https://kbroman.r-universe.dev):
+
+```r
+install.packages("mbmixture", repos=c("https://kbroman.r-universe.dev",
+                                      "https://cloud.r-project.org"))
+```
+
+Or use [remotes](https://remotes.r-lib.org) to install it from its GitHub source:
+
+```r
+install.packages("remotes")
+remotes::install_github("kbroman/mbmixture")
+```
 
 ---
 
@@ -44,6 +55,8 @@ Or view it from within R by loading the package and then using the
 library(mbmixture)
 vignette("mbmixture", package="mbmixture")
 ```
+
+---
 
 ### Citation
 

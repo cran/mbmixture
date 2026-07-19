@@ -1,3 +1,12 @@
+## mbmixture 0.8 (2026-07-19)
+
+- Add link to vignette in mbmixture-package help.
+
+- For parallel computing, use of `cores=0` argument now results in all
+  but one core (`parallel::detectCores()-1`) rather than **all**
+  cores.
+
+
 ## mbmixture 0.6 (2024-11-27)
 
 - Fix error in vignette.
